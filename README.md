@@ -324,36 +324,6 @@ Comparto conocimiento y experiencias en:
 
 ---
 
-## 📝 Últimas Actualizaciones
-
-### Mayo 2026
-- ✅ Completé optimización de perfil GitHub
-- ✅ Publiqué artículo sobre "AWS Lambda Best Practices"
-- ✅ Mentoreé 2 nuevos developers junior
-- ✅ Contribuí a 3 open source projects
-
-### Abril 2026
-- ✅ Implementé nuevo módulo en Poball
-- ✅ Optimicé queries en PostgreSQL (-40% time)
-- ✅ Escribí documentación de API
-- ✅ Capacité al equipo en best practices
-
----
-
-## 💡 Open Source Contributions
-
-Si tienes proyectos interesantes o necesitas ayuda con:
-
-- **Backend Development** — Django, FastAPI, Flask
-- **AWS Architecture** — Diseño de infraestructura escalable
-- **Database Optimization** — Performance tuning
-- **Payment Integration** — Stripe, Apple IAP, etc.
-- **Docker & DevOps** — Containerización y orquestación
-
-**¡Me encantaría contribuir!** Abre un issue o contacta directamente.
-
----
-
 <div align="center">
 
 ### ⭐ Si te gusta mi trabajo, dale una estrella a mis repos!
