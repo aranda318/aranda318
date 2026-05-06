@@ -229,11 +229,6 @@ Strapi | PostgreSQL | Node.js | CloudFront CDN
 - **AWS Certified Cloud Practitioner** (2023 – 2024)
 - **Ultimate AWS Certified Cloud Practitioner** — Udemy
 
-### 📖 En Progreso
-- AWS Solutions Architect Associate
-- AWS Developer Associate
-- Kubernetes Administrator (CKA)
-
 ---
 
 ## 🌟 Habilidades Clave
@@ -295,18 +290,6 @@ Comparto conocimiento y experiencias en:
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Conecta Conmigo
 
 <div align="center">
@@ -338,24 +321,6 @@ Comparto conocimiento y experiencias en:
 > "Trabajar con Luis en la integración de Stripe fue muy smooth. Documentó todo perfectamente y siempre estuvo disponible para preguntas."
 > 
 > — *Frontend Developer, Dacodes*
-
----
-
-## 🎯 Goals & Roadmap
-
-### 2024 - 2025
-- [ ] Publicar 12+ artículos técnicos
-- [ ] Hablar en 3+ conferencias/meetups
-- [ ] Contribuir a proyectos open source
-- [ ] Obtener certificación AWS Solutions Architect
-- [ ] Construir producto side-project (SaaS o herramienta)
-
-### 2025 - 2026
-- [ ] Llegar a 1000+ GitHub followers
-- [ ] 5000+ artículos leídos
-- [ ] Mentorar 10+ desarrolladores
-- [ ] Tech Lead en un proyecto importante
-- [ ] Hablar en conferencia internacional
 
 ---
 
